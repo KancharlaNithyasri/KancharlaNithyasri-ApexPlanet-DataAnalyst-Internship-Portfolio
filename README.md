@@ -18,7 +18,7 @@ This master portfolio consolidates the end-to-end data analytics projects comple
 
 ## Core Deliverables
 *   **Final Presentation :** [Click Here to View Presentation Deck](Executive_Storytelling_Presentation.pdf)
-*   **Video Walkthrough:** [Link to your video when uploaded]
+
 
 ---
 
